@@ -1,0 +1,13 @@
+# Large files that exceed GitHub's 100MB limit
+*.ipch
+
+# Visual Studio cache directory (contains large files)
+.vs/
+
+# Compiled binaries and build outputs
+*.exe
+*.pdb
+*.dll
+
+# Personal user settings
+*.user
